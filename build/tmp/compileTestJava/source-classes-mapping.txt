@@ -1,0 +1,16 @@
+com/ordertracking/controller/OrderTrackingControllerIntegrationTest.java
+ com.ordertracking.controller.OrderTrackingControllerIntegrationTest
+com/ordertracking/OrderTrackingApplicationTests.java
+ com.ordertracking.OrderTrackingApplicationTests
+com/ordertracking/dummy/DummyTrackingInformation.java
+ com.ordertracking.dummy.DummyTrackingInformation
+com/ordertracking/rule/imp/CollectedOfStorageTest.java
+ com.ordertracking.rule.imp.CollectedOfStorageTest
+com/ordertracking/rule/imp/ValidStatusToUpdateTest.java
+ com.ordertracking.rule.imp.ValidStatusToUpdateTest
+com/ordertracking/rule/UpdateStatusRulesTest.java
+ com.ordertracking.rule.UpdateStatusRulesTest
+com/ordertracking/rule/imp/DeliveredTest.java
+ com.ordertracking.rule.imp.DeliveredTest
+com/ordertracking/rule/imp/OutScopeStatusTest.java
+ com.ordertracking.rule.imp.OutScopeStatusTest
